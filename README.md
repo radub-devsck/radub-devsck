@@ -1,4 +1,4 @@
-👋 Hi, I’m @radub-devsck
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm [Radu](https://radubulai.com/)!
 
 <!---
 radub-devsck/radub-devsck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
